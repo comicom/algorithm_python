@@ -8,13 +8,13 @@
 - 계수정렬
 - 파이썬의 정렬 라이브러리는 병합정력에 기반한다. sorted(array) -> O(NlogN)
 
-'''python
+```python
   list.sort() # array를 정렬
   sorted(list, key=setting) # key는 옵션이며, 정렬 목적을 위한 키를 리턴하는 함수이여야 한다. -> 람다식 사용 가능
   def setting(data):  return data[1] # data의 0번째 항목이 아닌 1번째 항목을 기준으로 정렬한다.
   # 입력 -> [('바나나',2),('사과',5),('당근',3)]
   # 출력 -> [('바나나',2),('당근',3),('사과',5)]   // 2, 3, 5로 오름차순 
-'''
+```
 
 ## startup
 - 위에서 아래로
