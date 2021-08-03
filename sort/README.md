@@ -6,7 +6,7 @@
 - 삽입정렬
 - 퀵정렬
 - 계수정렬
-- 파이썬의 정렬 라이브러리는 병합정력에 기반한다. sorted(array) -> O(NlogN)
+- 파이썬의 정렬 라이브러리는 병합 정렬에 기반한다. sorted(array) -> O(NlogN)
 
 ```python
   list.sort() # array를 정렬
