@@ -11,17 +11,27 @@
 
 
 ## startup
-- 당장 좋은 것만 선택하는 그리디
-- 큰 수의 법칙
-- 숫자 카드 게임
-- 1이 될 때까지
+- 꼭 필요한 자료구조 기초
+  - stack_example
+  - que_example (deque 사용)
+  - recursive_function_example
+  - factorial_example
+- 탐색 알고리즘 DFS/BFS
+  - AdjacencyMatrix_example
+  - AdjacencyList_example
+  - DFS
+  - BFS
+- 음료수 얼려 먹기
+- 미로탈출
 
 
 ## hands-on
-- [한 장으로 보는 알고리즘]그리디
-- 모험가 길드
-- 곱하기 혹은 더하기
-- 문자열 뒤집기
-- 만들 수 없는 금액
-- 볼링공 고르기
-- 무지의 먹방 라이브
+- [한 장으로 보는 알고리즘]탐색 알고리즘 DFS/BFS
+- 특정 거리의 도시 찾기
+- 연구소
+- 경쟁적 전염
+- 괄호 변환
+- 연산자 끼워 넣기
+- 감시 피하기
+- 인구 이동
+- 블록 이동하기
